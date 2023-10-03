@@ -1,5 +1,5 @@
 # GoodReads-clone
-Implemented responsive [Goodreads Clone]('https://bookhubsruthi.ccbp.tech/') where users can log in and see a list of books,
+Implemented responsive [Goodreads Clone](https://bookhubsruthi.ccbp.tech/) where users can log in and see a list of books,
 bookshelves like all shelves (books sorted by rating), completed reading shelf, currently
 reading shelf, want to read shelf , and user can also search books with author's name and
 book's name.
